@@ -13,7 +13,7 @@ This Repository contains python files for the lecture examples.
 - resize video or images 
 
 ## Week2 - Digital Image Color Models and Converting between these color models
-1. Simple Digital Image Processing
+### Simple Digital Image Processing
 2. Simple Digital Image Enhancement in Spatial domain
 3. Intensity Transformations for digital images used Log Transformations 
 4. Intensity Transformations for digital images used Power Law Transformations (Gamma Correction)
