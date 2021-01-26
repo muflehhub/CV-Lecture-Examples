@@ -12,7 +12,7 @@ This Repository contains python files for the lecture examples.
 ### Create your video from list of images using OpenCV-Python
 ### Resize video or images using OpenCV-Python
 
-## Week2 - Digital Image Color Models and Converting between these color models
+## Week3 - Digital Image Color Models and Converting between these color models
 ### Simple Digital Image Processing
 ### Simple Digital Image Enhancement in Spatial domain
 ### Intensity Transformations for digital images used Log Transformations 
