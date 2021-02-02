@@ -25,3 +25,18 @@ This Repository contains python files for the lecture examples.
 - How to perform image enhancement(or Intensity Transformations) in spatial domain using OpenCV - Python (cv2.addWeighted())
 - How to perform Alpha blending for images using OpenCV - Python (cv2.addWeighted())
 - How to perform a simple digital image thresholding using OpenCV - Python (cv2.threshold)
+
+## Week4 - Introduction to Digital Image Histogram
+### Define what is Image Contrast
+### Define what is Image Brightness
+### How to Find or Compute the Image Histogram
+### Perform simple Histogram Sliding operation 
+### What is the Probability Mass Function (PMF)of the Histogram 
+### What is the Cumulative Distribution Function (CDF) of the Histogram
+### Perform Histogram equalization for Greyscale or colored images
+### Find 2D or  3D Image Histograms
+- How to compute image histogram using nested for loop 
+- How to compute image histogram using numpy.histogram 
+- How to compute image 1D, 2D or 3D histogram using OpenCV - Python (cv2.calcHist)
+- cv2.calcHist(images, channels, mask, histSize, ranges[, hist[, accumulate]])
+- How to perform image histogram equalization using OpenCV - Python (cv2.equalizeHist)
