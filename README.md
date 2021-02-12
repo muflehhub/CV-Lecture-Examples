@@ -41,7 +41,7 @@ This Repository contains python files for the lecture examples.
 - cv2.calcHist(images, channels, mask, histSize, ranges[, hist[, accumulate]])
 - How to perform image histogram equalization using OpenCV - Python (cv2.equalizeHist)
 
-##Week5 - Digital Image Noise and Filtering
+## Week5 - Digital Image Noise and Filtering
 ### Adding Noise to Digital Image 
 ### Add Salt and Pepper Noise to grayscale and  color images 
 ### Add Gaussian Noise to image to grayscale or color images
