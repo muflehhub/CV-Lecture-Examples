@@ -40,3 +40,29 @@ This Repository contains python files for the lecture examples.
 - How to compute image 1D, 2D or 3D histogram using OpenCV - Python (cv2.calcHist)
 - cv2.calcHist(images, channels, mask, histSize, ranges[, hist[, accumulate]])
 - How to perform image histogram equalization using OpenCV - Python (cv2.equalizeHist)
+
+##Week5 - Digital Image Noise and Filtering
+### Adding Noise to Digital Image 
+### Add Salt and Pepper Noise to grayscale and  color images 
+### Add Gaussian Noise to image to grayscale or color images
+### Digital image Filtering (Linear and nonlinear)
+### Mean Filter, Average Filter, or Box Filter
+### Gaussian Filtering
+### Median Filtering
+- How to add noise to image using OpenCV-Python
+- How to apply mean/average/box filter using OpenCV-Python: imgdsc = cv2.blur(src=imgsrc,ksize=(3,3))
+- How to apply Gaussian filter using OpenCV-Python: imgdsc = cv2.GaussianBlur(src=imgsrc,ksize=(3,3),sigmaX=0)
+- How to apply Median filter using OpenCV-Python: imgdsc= cv2.medianBlur(src=imgsrc, ksize= 3)
+
+
+
+
+
+
+
+
+
+
+
+
+
