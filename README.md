@@ -54,7 +54,22 @@ This Repository contains python files for the lecture examples.
 - How to apply Gaussian filter using OpenCV-Python: imgdsc = cv2.GaussianBlur(src=imgsrc,ksize=(3,3),sigmaX=0)
 - How to apply Median filter using OpenCV-Python: imgdsc= cv2.medianBlur(src=imgsrc, ksize= 3)
 
-
+## Week5 - Binary Images and  Morphological  processing
+### Introduction to Binary images
+### Image Thresholding
+#### Simple thresholding
+#### Adaptive Thresholding
+### Morphological Operations/Transformations
+#### Fit or Hit for Structure Element 
+#### Dilation 
+#### Erosion
+#### Morphological operations: opening and closing
+- How to apply OpenCV Image Thresholding using cv2.threshold(source, thresholdValue, maxVal, thresholdingTechnique)
+- How to apply OpenCV Thresholding Techniques: cv2.THRESH_BINARY,cv2.THRESH_BINARY_INV, cv2.THRESH_TRUNC, cv2.THRESH_TOZERO and cv2.THRESH_TOZERO_INV
+- How to apply OpenCV: Adaptive Thresholding using cv2.adaptiveThreshold(source, maxVal, adaptiveMethod, thresholdType, blocksize, constant)
+- How to apply dilate operation using OpenCV-Python cv2.dilate
+- How to apply erosion operation using OpenCV-Python cv2.erode
+- How to apply Opening and Closing operations using OpenCV-Python: cv2.morphologyEx(imgsrc, cv2.MORPH_OPEN, kernel), cv2.morphologyEx(imgsrc, cv2.MORPH_CLOSE, kernel)
 
 
 
